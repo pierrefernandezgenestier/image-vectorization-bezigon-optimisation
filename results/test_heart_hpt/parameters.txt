@@ -1,0 +1,7 @@
+const double lambda_spt = 1.0;
+const double lambda_apt = 0.08;
+const double lambda_hpt = 0.1;
+const double lambda_lpt = 0.1;
+const double lambda_data = 1e-2;
+double alpha = 15.; //learning rate
+double epsilon = 1.;
